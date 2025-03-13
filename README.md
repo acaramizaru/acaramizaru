@@ -6,22 +6,22 @@ Welcome to my GitHub profile!
 
 I am a second year student at the Faculty of Cibernetics, Statistics and Economic Informatic at the Academy of Economic Studies, studying ✨ Economic Informatics ✨
 
-🌱 I’m currently learning:
-    - multiparadigm programming in Java
-    - programming Windows applications (C#)
-    - genetic algorithms (Python, PyCharm)
-    - database management systems in PL/SQL
-    - data structures
+🌱 I’m currently learning:  
+    - multiparadigm programming in Java  
+    - programming Windows applications (C#)  
+    - genetic algorithms (Python, PyCharm)  
+    - database management systems in PL/SQL  
+    - data structures  
 
-🔭 I’m passionate about:
-    - video games
-    - problem-solving
-    - reading
+🔭 I’m passionate about:  
+    - video games  
+    - problem-solving  
+    - reading  
 
-😄 Fun facts about me:
-    - I have lived in Vancouver, Canada for 10 years, where I studied and worked
-    - I love coffee, music and film, and all animals
-    - I feed all the cats in my neighbourhood 
+😄 Fun facts about me:  
+    - I have lived in Vancouver, Canada for 10 years, where I studied and worked  
+    - I love coffee, music and film, and all animals  
+    - I feed all the cats in my neighbourhood   
 
 
 📫 How to reach me:
